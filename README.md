@@ -14,7 +14,12 @@
 
 
 >  ##### Hello  My Friends, 
->  My name is Gerald F.Morales Rivas I decided to follow my dreams of being a software developer. I am starting to be someone in this huge world of programming, for many years I was only an amateur, but now I am a professional, I want to help others learn.
+>  My name is Gerald F.Morales Rivas I decided to follow my dreams of being a software developer. I am starting to be someone in this huge world of programming, for >many years I was only an amateur, but now I am a professional, I want to help others learn...
+
+>Soy Gerald rivas decidi seguir mi sueño de ser un desarrollador de software. estoy empezando a ser alguien este mundo de la programacion, durante muchos años solo fui >aficionado, pero ahora soy un profesional, quiero ayudar a otros a aprender.
+
+> aun me falta mucho para ser un verdadero Predador y Master en la programacion, pero aun asi te invito a que me sigas y apoyes a ser alguien...
+> !! yo lo nadie Quiero ser Alguien.
 
 ---
 ## Skill-Habilidades
