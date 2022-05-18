@@ -55,7 +55,7 @@
 ##### Si quieres Ayudarme  Continuar Creando Contenido puedes Invitarme a ...
 
 :beer: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
-
+ ##### Una vicha, camagua, cervecita chela, como loa conzcas
 
 :tea: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
 
