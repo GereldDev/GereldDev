@@ -55,17 +55,20 @@
 ##### Si quieres Ayudarme  Continuar Creando Contenido puedes Invitarme a ...
 
 :beer: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
- ##### Una vicha, camagua, cervecita chela, como loa conzcas
+ ###### Una vicha, camagua, cervecita chela, como los conozcas para relajarme o depre.. :beer: 
 
 :tea: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
+######  té para los nervios y para no estresarme :tea: 
 
 :coffee: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
+######  Cafecito para siempre mantenerme alerta y seguir trabajando
 
-:ramen: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
+:ramen: :rabbit: :kissing_cat: :heart_eyes_cat: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
+####  para comer y darle comer amis gatitos y animales de la calle. :ramen: :heart_eyes_cat: :kissing_cat: :dog: :rabbit:
 
 
 --------------------------------
->## contact
+>## contact GereldDev 
 
 
 <!---
