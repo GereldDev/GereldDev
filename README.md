@@ -70,7 +70,7 @@
 ######  Cafecito para siempre mantenerme alerta y seguir trabajando
 
 :ramen: :rabbit: :kissing_cat: :dog: :heart_eyes_cat: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
-####  para comer y darle comer amis gatitos y animales de la calle. :ramen: :heart_eyes_cat: :kissing_cat: :dog: :rabbit:
+#### Para Darle de comer a mis Gatitos y animales de la calle. :ramen: :heart_eyes_cat: :kissing_cat: :dog: :rabbit:
 
 
 --------------------------------
