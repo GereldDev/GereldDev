@@ -58,7 +58,7 @@
 
 
 ----------------------------------
-#### Si Quieres Ayudarme  Continuar Creando Contenido puedes Invitarme a ...
+#### Si Quieres Ayudarme a Continuar Creando Contenido puedes Invitarme a ...
 
 :beer: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
  ###### Una vicha, camagua, cervecita chela, como los conozcas para relajarme o depre.. :beer: 
