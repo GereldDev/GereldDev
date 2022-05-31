@@ -14,7 +14,13 @@
 
 
 >  ##### Hello  My Friends, 
->  My name is Gerald F.Morales Rivas I decided to follow my dreams of being a software developer. I am starting to be someone in this huge world of programming, for many years I was only an amateur, but now I am a professional, I want to help others learn.
+>  My name is Gerald F.Morales Rivas I decided to follow my dreams of being a software developer. I am starting to be someone in this huge world of programming, for many years I was only an amateur, but now I am a professional, I want to help others learn...
+>  
+> Soy Gerald rivas decidi seguir mi sueño de ser un desarrollador de software. estoy empezando a ser alguien este mundo de la programacion, durante muchos años solo fui aficionado, pero ahora soy un profesional, quiero ayudar a otros a aprender.
+>  aun me falta mucho para ser un verdadero Predador y Master en la programacion, pero aun asi te invito a que me sigas y apoyes a ser alguien...
+!! yo lo nadie Quiero ser Alguien. :relaxed:
+
+
 
 ---
 ## Skill-Habilidades
@@ -52,20 +58,23 @@
 
 
 ----------------------------------
-##### Si quieres Ayudarme  Continuar Creando Contenido puedes Invitarme a ...
+#### Si Quieres Ayudarme a Continuar Creando Contenido puedes Invitarme a ...
 
 :beer: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
-
+ ###### Una vicha, camagua, cervecita chela, como los conozcas para relajarme o depre.. :beer: 
 
 :tea: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
+######  té para los nervios y para no estresarme :tea: 
 
 :coffee: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
+######  Cafecito para siempre mantenerme alerta y seguir trabajando
 
-:ramen: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
+:ramen: :rabbit: :kissing_cat: :dog: :heart_eyes_cat: ![https://GereldDev.com]( icon50pixel.png "pag of portfalio")
+#### Para Darle de comer a mis Gatitos y animales de la calle. :ramen: :heart_eyes_cat: :kissing_cat: :dog: :rabbit:
 
 
 --------------------------------
->## contact
+>## Contact GereldDev 
 
 
 <!---
