@@ -11,7 +11,7 @@ $(".fade-slider").jdSlider({
 	isDrag: false,
 	interval:5000,
 	isCursor: false,
-	speed:4000
+	speed:3500
 
 });
 
